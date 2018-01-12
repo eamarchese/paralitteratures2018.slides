@@ -350,7 +350,6 @@ Selon le philosophe Jacques Rancière, l'écriture et le style de Flaubert marqu
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Expressions pour caractériser la paralittérature :
 - Mode de production (grande diffusion, grand tirage, de masse)
-- Causes de la production
 - Mode de publication (feuilleton)
 - Circuit de distribution (gare, supermarché)
 - Nature du papier employé
