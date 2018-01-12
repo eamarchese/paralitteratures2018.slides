@@ -173,7 +173,7 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « [l]a première foi
 <li>Un auteur dans un ouvrage collectif : Prénom Nom, « Titre du chapitre », dans Prénom Nom du directeur (dir.), <i>Titre</i>, lieu de publication, maison d'édition, année, page.</li>
 <li>Entrée d'encyclopédie, dictionnaire ou autre entrée <b>avec auteur</b> : Prénom Nom, « entrée », dans <i>Titre</i>, lieu de publication, maison d'édition, année, page.</li>
 <li>Auteur d'un article : Prénom Nom, « Titre de l’article :
-sous-titre », <i>titre de la révue : sous-titre</i>, volume, numéro, jour
+sous-titre », <i>titre de la révue : sous-titre</i>, dossier spécial, volume, numéro, jour
 mois, année, page.</li>
 </ul>
 </small>
@@ -314,7 +314,7 @@ Ibid., p. 26.</small>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Descriptive et prescriptive
 <small>
-« Nous allons parler et de la poétique elle-même et de ses espèces ; dire quel est le rôle de chacune d'elles et comment on doit constituer les fables pour que la poésie soit bonne ; puis quel est le nombre, quelle est la nature des parties qui la composent : nous traiterons pareillement des autres questions qui se rattachent au même art, et cela, en commençant d'abord par les premières dans l'ordre naturel. II. L'épopée, la poésie tragique, la comédie, la poésie dithyrambique, l'aulétique, la citharistique, en majeure partie se trouvent être toutes, au résumé, des imitations. Seulement, elles diffèrent entre elles par trois points. Leurs <i>éléments d'imitation</i> sont autres ; autres les <i>objets imités</i>, autres enfin les <i>procédés et la manière</i> dont on imite »
+« Nous allons parler et de la poétique elle-même et de ses espèces ; dire quel est le rôle de chacune d'elles et comment on doit constituer les fables pour que la poésie soit bonne ; puis quel est le nombre, quelle est la nature des parties qui la composent : nous traiterons pareillement des autres questions qui se rattachent au même art, et cela, en commençant d'abord par les premières dans l'ordre naturel. L'épopée, la poésie tragique, la comédie, la poésie dithyrambique, l'aulétique, la citharistique, en majeure partie se trouvent être toutes, au résumé, des imitations. Seulement, elles diffèrent entre elles par trois points. Leurs <i>éléments d'imitation</i> sont autres ; autres les <i>objets imités</i>, autres enfin les <i>procédés et la manière</i> dont on imite »
 <br>
 <br>
 Aristote, <i>La poétique</i>, Paris, Le livre de poche, 1990, p. 85. (C'est moi qui souligne)
@@ -331,8 +331,6 @@ Sainte Beuve : « Auteur ancien, déjà consacré dans l'admiration et qui fait 
 http://www.la-pleiade.fr/Le-catalogue/Par-numero
 <!-- Kundera -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-### Institutionnalisation littéraire
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Œuvres non innovantes
 Selon le philosophe Jacques Rancière, l'écriture et le style de Flaubert marquent le passage à l'esthétique moderne et contemporaine.
 <br>
@@ -347,6 +345,8 @@ Selon le philosophe Jacques Rancière, l'écriture et le style de Flaubert marqu
 <br>
 « La problématique de cette étude s’inscrit dans le contexte de la seconde moitié du XXe siècle. […] Parmi d’autres facteurs peut-être plus scientifiques, on peut considérer que le développement d’une civilisation occidentale “multimédia” n’a pas été sans relations avec celui des réflexions […] sur le concept de “littérarité”. […] Au cours des années 60, l’affrontement entre tenants d’une doxa littéraire institutionnelle et contestataires partisans d’une “nouvelle critique” à prétentions scientifiques se déroulait sur fond de développement de l’édition et surtout de la télévision »
 <br>Daniel Couégnas, <i>Introduction à la paralittérature</i>, Paris, Seuil, 1992, p. 20</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Institutionnalisation littéraire
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Expressions pour caractériser la paralittérature :
 - Mode de production (grande diffusion, grand tirage, de masse)
@@ -392,3 +392,9 @@ Socrate : « Mais suppose un homme qui pense que dans tout discours écrit, n’
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 #### Umberto Eco, <i>Le nom de la rose</i>
 <iframe src="https://archive.org/details/nom-de-la-rose" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<!-- https://www.youtube.com/watch?v=d71jVWrY4eI
+https://fr.wikipedia.org/wiki/Paralitt%C3%A9rature
+https://fr.wikipedia.org/wiki/Roman_graphique
+http://1libertaire.free.fr/MFoucault349.html
+http://www.fabula.org/compagnon/genre.php
+-->
