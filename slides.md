@@ -11,7 +11,10 @@
 <br>
 <br>
 <small>HIVER 2018</small>
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 <font size="5px"><h2>CALENDRIER</h2>
 <ul>
 <li>12 janvier : <b>Introduction - Qu'est-ce que la paralittérature ?</b></li>
@@ -28,7 +31,9 @@
 <li>13 avril : <b>EXAMEN SUR TABLE</b></li>
 <li>23 avril : <b>TRAVAIL FINAL</b></li>
 </ul></font>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### EXAMEN SUR TABLE
 1 question théorique
 <br>
@@ -39,7 +44,9 @@
 <br>
 <br>
 ÉVALUATION - 25% de la note finale
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### TRAVAIL FINAL
 Analyse d'un objet paralittéraire
 <br>
@@ -48,7 +55,9 @@ Analyse d'un objet paralittéraire
 <br>
 <br>
 ÉVALUATION - 50% de la note finale
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ### PLAGIAT
 <font size="5px">
 « Le plagiat est l'acte de faire passer pour siens les textes ou les idées d’autrui »
@@ -66,7 +75,9 @@ Analyse d'un objet paralittéraire
 <br>
 http://secretariatgeneral.umontreal.ca/fileadmin/secretariat/Documents/Reglements/ens30_3-reglement-disciplinaire-plagiat-fraude-etudiants-premier-cycle.pdf
 </font>
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 ### NORMES DE CITATION
 
 2 styles principaux :
@@ -74,7 +85,9 @@ http://secretariatgeneral.umontreal.ca/fileadmin/secretariat/Documents/Reglement
 <li>Auteur-date</li>
 <li>Classique</li>
 </ul>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Auteur-date
 
 Dans le corps du texte, pas de note de bas de page
@@ -87,7 +100,9 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « La première fois 
 <br>
 <br>
 À la fin du livre ou de l'article : index des auteur.e.s cité.e.s
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique
 Notes de bas de page
 <br>
@@ -98,29 +113,35 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « La première fois 
 <br>
 <br>
 <small>1 Louis Aragon, <i>Aurélien</i>, Paris, Gallimard, 1976, p. 5.</small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique
-Réproduire la citation intégrale entre guillemets, avec la ponctuation et même, le cas où, les fautes, suivie de [<i>sic</i>]
+Reproduire la citation intégrale entre guillemets, avec la ponctuation et même, le cas où, les fautes, suivie de [<i>sic</i>]
 <br>
 <br>
 Le prof, dans ses diapositives, a écrit : « les fautes, suivie [<i>sic</i>] » au lieu de « suivies. »
 <br>
 <br>
 Dans le cas d'une citation de quatre lignes ou plus - dite citation longue - il faut l'insérer comme paragraphe autonome, sans guillements ni italique, avec la même police mais de taille diminuée et interligne simple et avec mise en retrait.
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <img src='img/citation_longue.png'>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Citation dans une citation
 
 On utilise les guillemets anglais : "..."
 
 Le prof a dit qu'il <font color="#DF0101">«</font> pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, <font color="#DF0101">"</font>La première fois qu'Aurélien vit Bérénice, il la trouva franchement laide<font color="#DF0101">"</font><sup><small>1</small></sup>, est le plus bel incipit de la littérature française. <font color="#DF0101">»</font>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Ajout et retrait
 
-<small>Parfois, dans une citation, on a besoin de changer, ajouter ou enlever des choses. On rend manifeste toute intervention en utilisant les paranthèses carrées : [ ]
+<small>Parfois, dans une citation, on a besoin de changer, ajouter ou enlever des choses. On rend manifeste toute intervention en utilisant les parenthèses carrées : [ ]
 <br>
 <br>
 <p>
@@ -135,7 +156,9 @@ Quand on veut mettre en évidence des mots dans la citation, on utilise <b>dans 
 <br>
 <br>1 Hans Robert Jauss, <i>Pour une esthétique de la réception</i>, Paris, Gallimard, 1978, p. 120. (C'est moi qui souligne)
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Ajout et retrait II
 
 <small>Les parenthèses carrées sont utilisées aussi pour préciser des éléments de la citation ou pour introduire la citation elle-même.
@@ -151,7 +174,9 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « [l]a première foi
 <br>
 <br>
 « [...] il la trouva franchement laide » c'est la phrase qui fait de l'incipit d'<i>Aurélien</i> de Louis Aragon le plus bel incipit de la littérature française</small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 #### Classique - Monographies et livres
 <small>
 <ul>
@@ -165,7 +190,9 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « [l]a première foi
 <li> Thèse et mémoire : Prénom Nom, <i>Titre</i>, thèse (Ph.D.)/mémoire en ..., Université, année, page.</li>
 </ul>
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Chapitres, parties de livres et articles
 <small>
 <ul>
@@ -173,11 +200,13 @@ Je pense que l'incipit d'<i>Aurélien</i> de Louis Aragon, « [l]a première foi
 <li>Un auteur dans un ouvrage collectif : Prénom Nom, « Titre du chapitre », dans Prénom Nom du directeur (dir.), <i>Titre</i>, lieu de publication, maison d'édition, année, page.</li>
 <li>Entrée d'encyclopédie, dictionnaire ou autre entrée <b>avec auteur</b> : Prénom Nom, « entrée », dans <i>Titre</i>, lieu de publication, maison d'édition, année, page.</li>
 <li>Auteur d'un article : Prénom Nom, « Titre de l’article :
-sous-titre », <i>titre de la révue : sous-titre</i>, dossier spécial, volume, numéro, jour
+sous-titre », <i>titre de la revue : sous-titre</i>, dossier spécial, volume, numéro, jour
 mois, année, page.</li>
 </ul>
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Documents numériques
 <ul>
 <li>Site Web <b>sans auteur</b> : <i>Nom du site</i>. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
@@ -185,7 +214,9 @@ mois, année, page.</li>
 <li>Page d'un site Web <b>sans auteur</b> : « nom de la page » dans <i>nom du site</i>. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 <li>Page d'un site Web <b>avec auteur</b> : Prénom Nom, « nom de la page » dans <i>nom du site</i>. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 </ul>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Classique - Documents numériques II
 <small>
 <ul>
@@ -195,11 +226,13 @@ mois, année, page.</li>
 <li>Entrée d'encyclopédie, dictionnaire ou autre entrée <b>sans auteur</b> : « entrée », entrée de <i>Titre</i>, lieu de publication, maison d'édition, année, page. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 <li> Thèse et mémoire : Prénom Nom, <i>Titre</i>, thèse (Ph.D.)/mémoire en ..., Université, année, page. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 <li>Auteur d'un article : Prénom Nom, « Titre de l’article :
-sous-titre », <i>titre de la révue : sous-titre</i>, volume, numéro, jour
+sous-titre », <i>titre de la revue : sous-titre</i>, volume, numéro, jour
 mois année, page, <font color="red">doi</font>. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 </ul>
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 #### Classique - Documents numérique III
 <small>
 <ul>
@@ -212,17 +245,21 @@ mois année, page, <font color="red">doi</font>. [En ligne : adresse] (consulté
 <li>Entrée d'encyclopédie, dictionnaire ou autre entrée <b>sans auteur</b> : « entrée », entrée <i>Titre</i>. [En ligne : adresse] (consulté le jj/mm/aaaa)</li>
 </ul>
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-### Abbréviations
+
+### Abréviations
 <small>
 <ul>
 <li>Citer le même auteur pour la deuxième fois : Hans Robert Jauss --> H.S. Jauss</li>
 <li>Citer le même document pour la deuxième fois : P. Nom, <i>titre</i>/« titre », op. cit., page</li>
-<li>Ibid. : pour citer le même document de la note précedente</li>
+<li>Ibid. : pour citer le même document de la note précédente</li>
 <li>Cf. : voir. Pour indiquer de façon générale un document à consulter</li>
 </ul>
 </small>
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 ### Bibliographie
 <small>
 Différencier les sections selon le type de document : bibliographie, webographie, vidéographie, ...
@@ -232,7 +269,7 @@ Inverser Prénom et nom et enlever les indications des pages, dates de consultat
 <ul>
 <li>NOM, Prénom de l'auteur, <i>Titre</i>, lieu de publication, maison d'édition, année.</li>
 <li>Pour les articles : NOM, Prénom, « Titre de l’article :
-sous-titre », <i>titre de la révue : sous-titre</i>, volume, numéro, jour
+sous-titre », <i>titre de la revue : sous-titre</i>, volume, numéro, jour
 mois année, <b>pages</b>.</li>
 <li>NOM, Prénom, <i>Titre</i>, lieu de publication, maison d'édition, année. [En ligne : adresse]</li>
 </small>
@@ -264,7 +301,7 @@ Qu'est-ce que la littérature ? Question majeure dans l'histoire culturelle occi
 <li>Alain-Michel Boyer :
 <ul>
 <li><i>La paralittérature</i>, Paris, PUF, 1992</li>
-<li><i>Les paralittératures</i>, Paris, Armand Colin, 2008</i></li>
+<li><i>Les paralittératures</i>, Paris, Armand Colin, 2008</li>
 </ul>
 <li>Pourquoi introduire le pluriel ?</li>
 <li>Se réfère-t-il à « Littérature » ou à « Paralittérature » ?</li>
@@ -279,7 +316,7 @@ Qu'est-ce que la littérature ? Question majeure dans l'histoire culturelle occi
   <li>Définition descriptive ou prescriptive ?</li>
     <ul>
     <li>Descriptive : Ce que la littérature <b>est</b></li>
-    <li>Prescriptive : Ce que la littéature <b>devrait</b> être</li>
+    <li>Prescriptive : Ce que la littérature <b>devrait</b> être</li>
     </ul>
   <li>Approches différentes selon l'époque, les modes et les pensées</li>
   <li>Institutionnalisation de la littérature : qui décide de la valeur esthétique d'une œuvre ?</li>
@@ -363,3 +400,135 @@ Selon le philosophe Jacques Rancière, l'écriture et le style de Flaubert marqu
 <li>Diffusion du contenu</li>
 <li>Légitimation du contenu</li>
 </ul>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# 19 janvier : éléments de paralittérature
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Approches paralittéraires
+- Marc Angenot
+- Daniel Couégnas
+- Umberto Eco
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/angenot.jpg" -->
+<!-- .element: class="givemeabackground" -->
+# Marc Angenot
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Problématiques
+- Définition
+- Éléments de définition
+- Idéologie et sociologie de la paralittérature
+- Production et consommation
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Définition
+<br>
+<small>« [...] il est un vaste domaine de la production imprimée exclu du monde de la culture, domaine aujourd'hui encore très peu étudié et qui reste assez mal circonscrit » p.9
+<br>
+<br>
+<br>
+« [...] une masse hétéroclite d'objets “culturels” qui semblent n'avoir d'autre chose en commun que leur absence prétendue de valeur esthétique » p.9
+<br>
+<br>
+<br>
+« Il semble que l’on tente aujourd’hui, en forgeant le mot de “paralittérature” de rassembler en un _tout_ l’ensemble des modes d’expression langagière à caractère lyrique ou narratif que des raisons idéologiques et sociologiques maintiennent en marge de la culture lettrée »</small>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Éléments de définition
+
+- Dimension
+- Procédé de publication
+  - (feuilleton : « encore qu'on ait nommé “feuilletons” des récits qui n'avaient jamais paru sous cette forme »)
+- Mode de distribution
+- Type de consommation.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Idéologie et sociologie
+<br>
+<small>
+« Aussi n'est-il pas si curieux que l'on veuille parler de “paralittérature” [...] au moment où le concept traditionnel de “littérature” se brise et s'éparpille et que se constituent des regroupements singuliers dans ce domaine prétendument homogène. »
+
+« [...] analyse interne, sémiotique, et l'analyse externe de la production et de la consommation de l'objet paralittéraire. C'est dire que notre domaine pose comme une évidence ce que la critique traditionnelle tente encore avec succès d'offusquer au moyen des pseudo-concepts de _beau_, de _génie_, de _création artistique_ et de _réalisme_. Une entreprise comme la nôtre ne peut qu’affirmer implicitement la non-pertinence des méthodes traditionnelles de la critique lettrée à un moment où ladite critique devient incapable de prolonger son bavardage oiseux sur la littérature elle-même »</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/genie.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Production et consommation
+
+<small>« la publicité feuilletonesque prétend ne pas s’adresser à un groupe social définit, mais s’enorgueillit d’atteindre un peuple entier, elle se propose un lecteur “universel”. C’est que le feuilleton est un produit industriel. Il faut en parler d’abord en termes de marché et non de groupe social »
+
+« _Les Mystères de Paris_, archétype du genre, ont paru en feuilleton dans le _Journal des débats_ et l'on pouvait douter de la popularité de cette feuille conservatrice parmi « les filles perdues de St-Lazare ». _Les Débats_ ne perdirent pas leurs abonnés ordinaires, c'est-à-dire la bourgeoisie aisée ; [..] certes, la popularité de Sue en milieu ouvrier fut rapide et immense, mais provenait-elle d'une connaissance directe fût-ce par la lecture à haute voix ? »
+
+« nous nous trouvons en présence de modes de consommation hétérogènes, pris dans des entourages culturels spécifiques »
+
+« Un produit standardisé, répandu par des techniques de diffusion massive s’adresse à “un gigantesque agglomérat d’individus saisis en deçà et au-delà des structures internes de la société” [...] Une explication fréquente est celle qui justifie le besoin de tels écrits par la “soif d’évasion” »</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Objectifs
+<small>
+« Un tel couple, littérature vs paralittérature, est fondé sur une opposition de sens, non pas de valeur, ni de relation d'hiérarchie »
+
+« Loin de présenter la paralittérature comme une forme dégradée de la littérature, nous poserons comme hypothèse que l'une ne peut exister sans l'autre. Littérature et paralittérature forment un couple indissociable pris dans une relation dialectique que l'histoire nous permet de voir opérer. »
+
+« La production paralittéraire est, elle, une production taboue, privée de feed-back critique, transitoire, fugace, appelée à une usure extrêmement rapide (ce qui la rend d’ailleurs extrêmement représentative de la sensibilité d’une époque) »
+
+« La paralittérature s’inscrit en dehors de la _clôture_ littéraire, comme une production taboue, interdite, scotomisée, dégradée peut-être, tenue en respect, mais aussi riche de thèmes et d’obsessions qui, dans la haute culture, sont refoulés. »
+
+</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Paralittérature » comme néologisme _opératoire_, « parce que le plus inglobant, le moins pourvu de connotations dévalorisantes »
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Daniel Couégnas
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« le mot [paralittérature] est utilisé fréquemment, et ce souci de clarification contribuerait dans une certaine mesure à montrer l’unité — relative — de travaux antérieurs d’apparence hétérogène. […] Il me semble qu’il est possible, au lieu de l’accepter simplement comme “donné”, de “construire” et de fonder en raison le concept de “paralittérature” »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Deux approches inadéquates :
+
+- « La première d’entre elles tend à assimiler “paralittérature” et “mauvaise littérature” ». La mauvaise littérature est définie par :
+    - certains contenus : récits d’aventures invraisemblables (fantastique, science-fiction, imaginaire).
+    - personnages inconsistants psychologiquement
+
+- Selon la forme : mal écrite, pas écrite, négligée. Pauvreté d’invention formelle, répétitivité, ressassement, stéréotypes narratifs, excès caricaturaux
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Ils [les contestataires de l’ordre littéraire établi] mettent en avant l’impossibilité de définir des critères permettant de distinguer de façon absolue entre “littérature” et “paralittérature”. […] Ils font également observer […] qu’à vouloir à tout prix définir une “paralittérature” on court le risque de se fonder sur un corpus choisi pour sa docilité, en “oubliant” du même coup les œuvres qui ne cadrent pas avec la théorie »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Je suggère donc d’analyser les présupposés du concept de “paralittérature” plutôt que de coller des étiquettes sur des œuvres. […] En mettant en lumière ces critères “repoussoirs”, il est clair que nous ébaucherons du même coup l’image complémentaire d’un autre type de relation à l’écriture et à la lecture »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« “Littérarité” et “paralittérarité” s’éclairent l’une l’autre et s’opposent de façon beaucoup plus convaincante si on les met en parallèle par le biais de deux modes de lecture. Les effets de ces modes de lecture sont objectivement repérables dans le fonctionnement institutionnel des instances (critiques, universitaires) qui portent des jugements, instaurent des normes, opèrent des tris, influent sur le comportement du public lettré. Ils sont tout aussi repérables dans les mécanismes de production et de distribution, dans le fonctionnement économique de l’industrie éditoriale »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Caractéristiques du modèle paralittéraire
+<small>
+
+* Péritexte éditorial établissant sans équivoque, par le biais d’un certain nombre de signaux matériels et textuels, un véritable contrat de lecture dans le cadre d’un sous-genre romanesque immédiatement repérable
+
+* Une tendance à la reprise inlassable des mêmes procédés sans aucune mise à distance ironique ou parodique
+
+* Un maximum de procédés textuels tendant à produire l’illusion référentielle, donc à abolir la conscience de l’acte de lecture
+
+* Le refus du dialogisme. Un système “pansémique”, redondant, marqué par la polarisation idéologique. Le lecteur est confiné dans un rôle de “reconnaissance” du sens.
+
+* La domination du narratif dans l’espace textuel
+
+* Personnages procédant d’une mimésis sommaire et réduits à des rôles allégoriques facilitant la lecture identificatoire
+
+</small>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/eco.jpeg" width='20%'' -->
+<!-- .element: class="givemeabackground" -->
+# Umberto Eco
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Fil rouge du livre : « Le feuilleton remplace (et favorise en même temps) l'imagination de l'homme du peuple, c'est un véritable rêve éveillé » Gramsci
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Différences entre littérature et paralittérature :
+- Pas d’analyse psychologique
+- Absence de style
+- Consolation
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Eco et Aristote
+<small>
+« le constructeur d'intrigues - l'auteur - doit connaître les attentes de son public. Aristote laisse le choix en suspens, mais une fois ces attentes connues, reste à savoir si on décide de les provoquer ou de les flatter. Le roman “populaire” (le feuilleton) est tel parce qu’il choisit la seconde solution »
+
+Utilisation des procédés connus, solutions préconstituées, etc __mais__ « ce faisant, il déploiera une telle énergie, il libérera un tel bonheur, sinon inventif du moins combinatoire, qu'il proposera une jouissance qu'il serait hypocrite de nier : il représente en effet la _fabula_ à l'état pur, sans scrupule et libre de tensions problématiques »
+
+« il faut s’accorder sur ce que l’on entend par “satisfaction des attentes”. Avec l’intensification des expériences littéraires, les topoi changent également et il s’agit de savoir ce que la tradition narrative nous a habitués à désirer aujourd’hui comme solution la plus réconfortante. À notre époque, on aura un roman populaire même là où le héros se révélera problématique de façon prévisible »
+</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Quoi qu’il en soit, il existe une constante permettant de distinguer le roman populaire du roman problématique : dans le premier, il y aura toujours une lutte du bien contre le mal qui se résoudra toujours ou en tout cas en faveur du bien, le mal continuant à être défini en termes de moralité, de valeurs, d’idéologie courante. Le roman problématique propose au contraire des fins ambiguës »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Les œuvres de ce genre sont conçues pour faire pleurer, donc, _elles font pleurer_. Impossible de manger un bonbon au miel et - au seul prétexte que l'on a une vaste culture et un contrôle parfait de ses sensations - prétendre sentir un goût de sel »
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
