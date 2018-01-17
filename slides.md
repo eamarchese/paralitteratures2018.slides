@@ -447,7 +447,7 @@ Selon le philosophe Jacques Rancière, l'écriture et le style de Flaubert marqu
 
 « [...] analyse interne, sémiotique, et l'analyse externe de la production et de la consommation de l'objet paralittéraire. C'est dire que notre domaine pose comme une évidence ce que la critique traditionnelle tente encore avec succès d'offusquer au moyen des pseudo-concepts de _beau_, de _génie_, de _création artistique_ et de _réalisme_. Une entreprise comme la nôtre ne peut qu’affirmer implicitement la non-pertinence des méthodes traditionnelles de la critique lettrée à un moment où ladite critique devient incapable de prolonger son bavardage oiseux sur la littérature elle-même »</small>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/genie.jpg">
+<img src="img/genie.jpg" width="40%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Production et consommation
 
