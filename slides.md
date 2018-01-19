@@ -532,3 +532,76 @@ Utilisation des procédés connus, solutions préconstituées, etc __mais__ « c
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 « Les œuvres de ce genre sont conçues pour faire pleurer, donc, _elles font pleurer_. Impossible de manger un bonbon au miel et - au seul prétexte que l'on a une vaste culture et un contrôle parfait de ses sensations - prétendre sentir un goût de sel »
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Horizon d'attente
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Hans Robert Jauss, « Pour une esthétique de la réception »
+- Expérience préalable du public à l'égard du genre
+- Œuvres antérieures
+- Vie quotidienne du lecteur
+- Écosystème médiatique/éditorial/informationnel
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Éléments de l'horizon d'attente paralittéraire
+
+* Genre
+* Série
+* Collection
+* Image de couverture
+* Format
+* Répétition
+* Personnages
+* Auteur
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Genre
+Catégorie d'œuvres définie par un ensemble de règles et de caractères communs
+
+http://www.cafe.umontreal.ca/genres/lst-gnr.html
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Convention de genre
+
+- Conventions régulatrices (exemple : sonnet)
+- Conventions de tradition (exemple : le roman)
+- Forme (types de poésie - prose...)
+- Contenu
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Aristote
+- Moyens
+- Objets
+- Modes
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Aristote
+
+- Poésie épique (Épopée vs Tragédie)
+- Poésie dramatique
+- Poésie Lyrique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Romantisme
+
+- Œuvre d'art totale
+- Pas de règles formelles ni de modèles
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Modernité
+
+- Théâtre
+- Poésie
+- Roman
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Aujourd'hui
+
+La littérature est conçue autour de l'œuvre spécifique, irréductible à tout classement générique
+
+Et pourtant, il y a des genres
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Genre et paralittérature
+
+- Science-fiction
+- Meurtres
+- Phantômes
+- Amour/sexe
+- Monde régi par des règles autres
+- Université
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Rhétorique
+
+Sciences des formes possibles du discours littéraire. « Elle est une technè, un ensemble de règles à suivre, de recommandations animées par une finalité pratique, un manuel de procédés dont la mise en œuvre permet de produire un texte »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Les œuvres paralittéraires, qui ne sont pas soumises à une valeur absolue d’originalité, s’inscrivent à l’intérieur de canons, de normes esthétiques spécifiques ; elles respectent un code générique tantôt explicite […] tantôt implicite […], si bien que la qualité du récit dépend aussi du degré de compétence de l’auteur dans son utilisation »
