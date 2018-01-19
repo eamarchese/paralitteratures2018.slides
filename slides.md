@@ -540,7 +540,7 @@ Hans Robert Jauss, « Pour une esthétique de la réception »
 - Vie quotidienne du lecteur
 - Écosystème médiatique/éditorial/informationnel
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-## Éléments de l'horizon d'attente paralittéraire
+### Éléments de l'horizon d'attente paralittéraire
 
 * Genre
 * Série
