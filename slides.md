@@ -605,3 +605,220 @@ Et pourtant, il y a des genres
 Sciences des formes possibles du discours littéraire. « Elle est une technè, un ensemble de règles à suivre, de recommandations animées par une finalité pratique, un manuel de procédés dont la mise en œuvre permet de produire un texte »
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 « Les œuvres paralittéraires, qui ne sont pas soumises à une valeur absolue d’originalité, s’inscrivent à l’intérieur de canons, de normes esthétiques spécifiques ; elles respectent un code générique tantôt explicite […] tantôt implicite […], si bien que la qualité du récit dépend aussi du degré de compétence de l’auteur dans son utilisation »
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# 26 janvier : éléments de paralittérature et littérature numérique
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Previously
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Esthétique paralittéraire
+
+Critiques :
+- La paralittérature n’est pas suffisamment véridique, car aplatissant les psychologies
+- La paralittérature joue trop sur la confusion entre naturel et artificiel
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Illusion réferentielle
+
+- Récit = histoire
+- Interventions de l'auteur
+- Emploi énorme du cliché
+- Discours direct
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Personnages paralittéraires
+
+- Figures narratives
+- Cadrage idéologico-narratif
+- Fiche signalétique
+- Idéologie et hiérarchie
+- Type vs cliché
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/fantomas.jpg'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/lupin2.gif'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/lupin3.jpg'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/lupin.jpg'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Répétition
+
+- Rythme de lecture
+- Dans le roman policier : herméneutique
+- Multiplication des types de personnages
+- Répétition intertextuelle et intratextuelle
+- Perméabilité du langage, langage traversé par le langage courant et ses tics
+- Intertextualité
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# La littérature, le livre (?)
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Écriture vs. Oralité - IV siècle Av. J.-C.
+
+« Maintenant ne nous reste-t-il pas à parler sur la convenance ou l’inconvenance qu’il peut y avoir à écrire ? Que t’en semble ? [...] Sais-tu comment on peut être le plus agréable à Dieu par ses discours, écrits ou parlés ? »
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<small>« Il serait trop long de les parcourir ; mais lorsqu’ils en furent à l’écriture : _Cette science_, ô roi ! lui dit Theuth, _rendra les Égyptiens plus savants et soulagera leur mémoire. C’est un remède que j’ai trouvé contre la difficulté d’apprendre et de savoir_. Le roi répondit : Industrieux Theuth, tel homme est capable d’enfanter les arts, tel autre d’apprécier les avantages ou les désavantages qui peuvent résulter de leur emploi ; et toi, père de l’écriture, par une bienveillance naturelle pour ton ouvrage, tu l’as vu tout autre qu’il n’est : _il ne produira que l’oubli dans l’esprit de ceux qui apprennent, en leur faisant négliger la mémoire_. En effet, ils laisseront à ces caractères étrangers le soin de leur rappeler ce qu’ils auront confié à l’écriture, et _n’en garderont eux-mêmes aucun souvenir_. Tu n’as donc point trouvé un moyen pour la mémoire, mais pour la simple réminiscence, et tu n’offres à tes disciples que le nom de la science sans la réalité ; car, _lorsqu’ils auront lu beaucoup de choses sans maîtres, ils se croiront de nombreuses connaissances, tout ignorants qu’ils seront pour la plupart, et la fausse opinion_ qu’ils auront de leur science les rendra insupportables dans le commerce de la vie. »</small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+« Une fois écrit, un discours roule de tous côtés, dans les mains de ceux qui le comprennent comme de ceux pour qui il n’est pas fait, et il ne sait pas même à qui il doit parler, avec qui il doit se taire. »
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Rouleau vs codex, une question de support - VI siècle
+
+« si le livre, pendant deux mille ans, a revêtu principalement la forme d’un codex — d’un ensemble de cahiers cousus ou collés les uns avec les autres —, il avait été précédé par le rouleau, le volumen cher aux auteurs latins. Lui-même ne s’était imposé qu’après avoir succédé aux tablettes d’argile, aux stèles de pierre et aux panneaux de bois »
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/volumen.jpg'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Umberto Eco, <i>Le nom de la rose</i>
+<iframe src="https://archive.org/details/nom-de-la-rose" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## La question du format paralittéraire : la « bibliothèque bleue » - XVII siècle
+
+- Origines savantes
+- Interventions des éditeurs
+- Mauvaise qualité du papier
+- Petit format
+- Facilité d'approche, d'achat, de lecture
+- Circuit de vente de grande distribution
+- 1000 livrets pour un
+- Première forme littéraire grand-public
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bleu.jpg" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+## La question du format paralittéraire : le livre de poche - 1915
+
+« Si l’expression “livre de poche” n’est utilisée qu’en 1915 par l’éditeur Jules Tallandier pour désigner la première collection de livres français portant ce nom, le livre au format de ce que nous appelons le “poche” aujourd’hui p. 193 […] est entré en scène en 1838 sous le nom de ”volume Charpentier” »
+
+https://www.youtube.com/watch?v=wQ-Gp6XOE7A
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+# Autour du livre : le paratexte
+
+Paratexte = Péritexte + épitexte
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+## Le paratexte paralittéraire : la série et la collection
+
+- Plus importante qu'un livre quelconque appartenant à la série
+- Identité générale et générique
+- Élément assurant l'identité et la répétition
+- Élément paratextuel paralittéraire par excellence
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/polar.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/fantastique.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/harlequins.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« Aujourd’hui, collection littéraire et paralittéraires s’opposent essentiellement suivant le critère de la sobriété de présentation. […] C’est d’ailleurs en recourant au vocabulaire de la couleur que, fréquemment, les noms des collections leur permettent de se démarquer par des connotations banales, aisément déchiffrables, en rapport avec la thématiques abordée et/ou le public visé, mais aussi comme indicateurs différentiels visuels facilitant le repérage sur les rayons »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+# Le paratexte paralittéraire : l'image de couverture
+
+- Attirer, séduire, intriguer le lecteur
+- Ligne de démarcation par rapport à la littérature générale
+- Réseau intermédia : cinéma, film, théâtre, télévision
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src='img/tintin.jpg'>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couverture.jpg" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Le paratexte paralittéraire : l'auteur
+
+« L’“anonymat” paralittéraire n’est sans doute pas de même nature que celui de la “grande” littérature. […] la pratique de l’anonymat trahit le relâchement du lien narcissique qui unit traditionnellement un créateur et son œuvre, la dégradation de l’image de ce qui n’est plus considéré que comme un produit de grande consommation par l’auteur, ravalé au rang de simple producteur interchangeable, et par l’éditeur, qui distribue la marchandise sans scrupules excessifs, au mieux de ses intérêts. Et puis l’anonymat permet qu’un autre écrivain “reprenne” une série à la mort de l’auteur »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Les éléments paratextuels « préparent, invitent, incitent le lecteur à un geste répétitif : acheter, de nouveau »
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Littérature numérique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Antoine Compagnon
+
+« les écrivains contemporains, de plus en plus nombreux, qui présentent leur œuvre sur leur propre site Web sont-ils encore des auteurs ? La gratuité de la mise à disposition de l’œuvre au public qui veut bien aller la chercher ne modifie-t-elle pas profondément le statut de l’auteur, sa relation à l’œuvre, sa relation au lecteur ? »
+
+« Or la médiation de l’éditeur constituait l’auteur : sans éditeur, plus d’auteur. Pourtant, ce n’est pas tout d’avoir son site ; il faut encore que les moteurs de recherche y renvoient : ceux-ci deviennent les nouveaux intermédiaires entre les écrivains et le public. Mais pour eux, justement, les écrivains ne sont plus des auteurs mais des “fournisseurs de contenu” comme les autres »
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Littérature éléctronique/hypermédiatique
+<small>
+- Hyperlien : « print texts had long also employed analogous technology in such apparati as footnotes, endnotes, cross-reference, and so on, undermining the claim that the technology was completely novel »
+- Ergodic literature (« texts in which "nontrivial effort is required to allow the reader to traverse the text" ») : « the materiality of practice is crucial both to experimental print literature and to innovative electronic work » Loss Pequeno Glazer
+- Alexander Galloway in Protocol puts the case succinctly: "Code is the only language that is executable". Unlike a print book, electronic text literally cannot be accessed without running the code. Critics and scholars of digital art and literature should therefore properly consider the source code to be part of the work
+- « Work with an important literary aspect that takes advantage of the capabilities and contexts provided by the stand-alone or networked computer »
+</small>
+
+https://eliterature.org/pad/elp.html
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Scott Rettberg, William Gillespie, Dirk Stratton
+http://unknownhypertext.com/
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Cécile Portier
+http://etantdonnee.net/
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Répertoire NT2
+http://nt2.uqam.ca/fr/search/site/?f%5B0%5D=type%3Arepertoire&retain-filters=1
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Littérature éléctronique/hypermédiatique
+
+Définition axée sur les outils et les technologies
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Littérature numérique
+
+Phénomène moins technique que culturel au sens large
+
+Peut-être devrait-on parler de _littérature à l'ère du numérique_
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Ère du numérique
+
+- Rupture ou continuité ?
+- Une question technologique ?
+- Une questione culturelle ?
+- Une question institutionnelle ?
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+# Clara Beaudoux
+
+https://storify.com/clarabdx/madeleineproject
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Philippe de Jonckheere
+
+<img src='img/desordre.png'>
+
+http://desordre.net/
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« En effet la fabrication de livres dits “homothétiques”, c’est-à-dire à peu près identiques sur papier et en fichiers numériques n’est que le premier stade d’une mutation appelée à faire naître de nouveaux genres littéraires que l’on est incapable de nommer. Gaston Bachelard puis Louis Althusser désignèrent sous le terme de “rupture épistémologique” ces périodes de transition dans lesquelles on continue à penser le nouveau avec les concepts de l’ancien »
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+« La révolution du texte électronique est, en effet, tout à la fois une révolution de la technique de production et de reproduction des textes, une révolution du support de l’écrit, et une révolution des pratiques de lecture »
+
+Jean-Yves Mollier, _Où va le livre ?_, 2007
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Anne Archet
+
+https://archet.net/
+
+https://viedelicorne.blog/liste-des-episodes/
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+https://www.atlasobscura.com/articles/the-obsessively-detailed-map-of-american-literatures-most-epic-road-trips
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Dérives
+
+https://storify.com/enagmar88/derives
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Gares
+
+http://aplacewhereyoufeelsafe.com/gares/
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Laisse venir
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Lionel Ruffel, Brouhaha. Les mondes du contemporain
+
+« S’il est un point commun à l’ensemble de ces transformations, c’est que l’on passe d’une représentation et donc d’un imaginaire du littéraire centré sur un objet-support : le livre, à un imaginaire du littéraire centré sur une action et une pratique : la publication. “Publier” retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression. […] Il existe autant de littératures que de possibilités de publication […] Chacune de ces littératures crée un espace public spécifique. Par ailleurs, cette ère de la publication déborde largement le cadre de la littérature »
