@@ -672,7 +672,8 @@ Critiques :
 <img src='img/volumen.jpg'>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Umberto Eco, <i>Le nom de la rose</i>
-<iframe src="https://archive.org/details/nom-de-la-rose" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+https://archive.org/details/nom-de-la-rose
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
