@@ -940,7 +940,7 @@ table, th, td {
 
 <font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3364.jpg" width="100%">
+<img src="img/IMG_3364.JPG" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Construction du décor - Imaginaire de l'Amérique
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
