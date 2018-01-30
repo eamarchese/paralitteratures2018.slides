@@ -823,3 +823,246 @@ http://aplacewhereyoufeelsafe.com/gares/
 ### Lionel Ruffel, Brouhaha. Les mondes du contemporain
 
 « S’il est un point commun à l’ensemble de ces transformations, c’est que l’on passe d’une représentation et donc d’un imaginaire du littéraire centré sur un objet-support : le livre, à un imaginaire du littéraire centré sur une action et une pratique : la publication. “Publier” retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression. […] Il existe autant de littératures que de possibilités de publication […] Chacune de ces littératures crée un espace public spécifique. Par ailleurs, cette ère de la publication déborde largement le cadre de la littérature »
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# 2 février - Bande dessinée
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/wolverine.jpg" wdth="60%"-->
+<!-- .element: class="givemeabackground" -->
+<font color="black">
+- Hergé, _Tintin en Amérique_, 1946;
+<br>
+- R. Goscinny et A. Uderzo, _Astérix et le chaudron_, 1969;
+<br>- M. Rabagliati, _Paul dans le métro_, 2005;
+<br>- A. Lévesque, _Dessine Bandé_, 2016;
+<br>- M. Ren, _Phallaina_, 2016.
+- </font>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/roy.jpg" wdth="60%"-->
+<!-- .element: class="givemeabackground" -->
+# La bande dessinée
+
+<font color='black'>« Mode de narration utilisant une succession d'images dessinées, incluant, à l'intérieur de bulles, les paroles, sentiments ou pensées des protagonistes »
+<br>
+<br>
+« Forme d'expression artistique utilisant une juxtaposition de dessins (ou d'autres types d'images fixes, mais pas uniquement photographiques), articulés en séquences narratives et le plus souvent accompagnés de textes (narrations, dialogues, onomatopées) »</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/topffer.png" -->
+<!-- .element: class="givemeabackground" -->
+
+# La naissance de la BD
+
+<font color="black">1827, Rodolphe Töpffer, _Monsieur Vieux-Bois_</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/jeffMutt.jpg" -->
+<!-- .element: class="givemeabackground" -->
+
+# BD et presse grand tirage
+
+<font color='black'>En 1907, le « comic strip » _Mutt and Jeff_ de Bud Fisher devient journalier, et depuis des bandes dessinées apparaissent chaque jour dans les journaux américains</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bdAlbum.jpg" -->
+<!-- .element: class="givemeabackground" -->
+
+# Autonomie de la BD
+
+<font color='black'>Dans les années 60, la BD commence à se publier en album</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stanLee.png" -->
+<!-- .element: class="givemeabackground" -->
+
+# La BD et le numérique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/spiderman.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/digitalSpiderman.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xcd.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/dessinebande.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bulle.jpg" -->
+# Éléments de la BD
+
+- Image
+- Texte
+- Planche
+- Bande / strip
+- Vignette ou case
+- Bulle ou phylactère
+- Cartouche ou commentaire
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th>Autonomie récit/tableau</th>
+    <th>Dépendance récit/tableau</th>
+  </tr>
+  <tr>
+    <td><b>Dominance du récit</b></td>
+    <td>Utilisation conventionnelle</td>
+    <td>Utilisation rhétorique</td>
+  </tr>
+  <tr>
+    <td><b>Dominance du tableau</b></td>
+    <td>Utilisation décorative</td>
+    <td>Utilisation productrice</td>
+  </tr>
+</table>
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/herge.jpg" -->
+<!-- .element: class="givemeabackground" -->
+# Hergé
+<font color="black">
+- 22 mai 1907 - 3 mars 1983
+- Dessinateur amateur dans une revue scoute
+- Dessinateur au quotidien _Le Vingtième Siècle_
+- _Aventures de Tintin_, 10 janvier 1929, _Le Petit Vingtième_
+- Ligne claire
+- Du noirs et blanc à la couleur, 1941
+- Studio Hergé
+<font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tintinA.jpg" -->
+<!-- .element: class="givemeabackground" -->
+# Tintin en Amérique
+<font color="black">
+
+- En noir et blanc du 3 septembre 1931 au 20 octobre 1932 dans les pages du _Petit Vingtième_
+- L'album est publié pour la première fois en 1932
+- La version couleur et actuelle de l'album est parue en 1946
+- Querelle raciste, 2015
+
+<font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3364.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Construction du décor - Imaginaire de l'Amérique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3365.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3366.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3390.jpg" width="70%">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3394.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3395.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3400.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3405.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3406.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Personnages
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Tintin
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3369.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3370.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3391.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Ruse de Tintin
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3367.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3376.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Chance de Tintin
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3407.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Al Capone
+<img src="img/tintin/IMG_3374.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Bobby Smiles
+<img src="img/tintin/IMG_3384.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3385.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Gangsters
+<img src="img/tintin/IMG_3381.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3383.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Police américaine
+<img src="img/tintin/IMG_3377.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Indiens d'Amérique
+<img src="img/tintin/IMG_3389.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3392.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Mike Mac Adam
+<img src="img/tintin/IMG_3396.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3397.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Humour
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Appel à l'imaginaire du lecteur
+<img src="img/tintin/IMG_3368.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3410.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3412.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Répétitions
+<img src="img/tintin/IMG_3402.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3403.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3414.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Techniques narratives
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Enchaînement en séquence
+<img src="img/tintin/IMG_3371.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Anticipations
+<img src="img/tintin/IMG_3398.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Suspense de bas de page
+<img src="img/tintin/IMG_3372.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3373.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3386.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3387.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3415.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3416.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Tension narrative
+<img src="img/tintin/IMG_3375.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Récapitulations
+<img src="img/tintin/IMG_3378.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Explications
+<img src="img/tintin/IMG_3379.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3399.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3408.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3409.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Case et récit
+<img src="img/tintin/IMG_3380.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/tintin/IMG_3382.jpg">
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Astérix et Obelix
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Goscinny et Uderzo
