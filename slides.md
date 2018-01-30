@@ -1063,6 +1063,8 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3382.JPG" width="70%">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="http://www.geo.fr/var/geo/storage/images/media/albert-uderzo-a-gauche-et-rene-goscinny-a-droite-en-1966/1956929-2-fre-FR/albert-uderzo-a-gauche-et-rene-goscinny-a-droite-en-1966.jpg" -->
+<!-- .element: class="givemeabackground" -->
 # Goscinny et Uderzo
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Astérix et Obelix
