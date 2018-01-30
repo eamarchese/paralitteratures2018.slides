@@ -1063,8 +1063,148 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3382.JPG" width="70%">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="http://www.geo.fr/var/geo/storage/images/media/albert-uderzo-a-gauche-et-rene-goscinny-a-droite-en-1966/1956929-2-fre-FR/albert-uderzo-a-gauche-et-rene-goscinny-a-droite-en-1966.jpg" -->
+<!-- .slide: data-background-image="img/uderzoGoscinny.jpg" -->
 <!-- .element: class="givemeabackground" -->
 # Goscinny et Uderzo
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Albert Uderzo, 25 avril 1927
+
+- Déssinateur jeunesse
+- Grande presse et illustrations
+- Création d'un syndicat d'artistes : les dessinateurs sont les proprietaires des œuvres
+- _Journal de Tintin_
+- Magazine _Pilote_ : première série d'_Astérix_
+- 1977, mort de Goscinny
+- 2013, retraite
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# René Goscinny, 11 août 1926- 5 novembre 1977
+
+- Enfance en Argentine
+- Premiers travaux à New York
+- 1951, travaille à Paris pour _World Press_
+- Reconnaissance du métier de scénariste de BD
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/asterixObelix.jpg" -->
+<!-- .element: class="givemeabackground" -->
 # Astérix et Obelix
+<font color="black">
+- 50 av. J.-C.
+<br>- Aventure d'un village gaulois qui résiste à la conquête romaine de la Gaule
+<br>- Prisme pour le folklore et la société français.e.s
+<br>- Comique de répétition
+<br>- Ligne sombre
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/chaudron.jpg" -->
+<!-- .element: class="givemeabackground" -->
+# Astérix et le chaudron
+<font color="black">
+<br>- Publié dans _Pilote_ du 31 octobre 1968 au 3 avril 1969
+<br>- Publié en album en 1969
+<br>- Insipiré par les problèmes d'impôts des auteurs
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Paratexte introductif
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3419.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3420.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3421.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3422.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Construction du décor
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3424.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Personnages
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Moralelastix
+<img src="img/IMG_3425.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3426.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3431.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Obelix
+<img src="img/IMG_3433.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3437.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Pirates
+<img src="img/IMG_3442.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3443.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3445.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Eléonoradus
+<img src="img/IMG_3458.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Humour
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Répétitions dans la série
+<img src="img/IMG_3427.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3428.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3440.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3441.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3460.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3453.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3454.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Répétitions dans l'album - Running gag
+<img src="img/IMG_3432.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3434.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3438.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3470.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3470.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Jeux de mots
+<img src="img/IMG_3429.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3451.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Appel aux connaissances du lecteur
+<img src="img/IMG_3430.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3455.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3456.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3473.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Métadiscours
+<img src="img/IMG_3447.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3448.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Humour visuel
+<img src="img/IMG_3436.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3459.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3462.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3467.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3468.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3469.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Dévoilement
+<img src="img/IMG_3474.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Planche finale
+<img src="img/IMG_3475.JPG">
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
