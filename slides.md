@@ -928,7 +928,7 @@ table, th, td {
 - Studio Hergé
 <font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="tintinA.jpg" -->
+<!-- .slide: data-background-image="img/tintinA.jpg" -->
 <!-- .element: class="givemeabackground" -->
 # Tintin en Amérique
 <font color="black">
@@ -940,128 +940,128 @@ table, th, td {
 
 <font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3364.jpg">
+<img src="img/IMG_3364.jpg" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Construction du décor - Imaginaire de l'Amérique
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3365.jpg">
+<img src="img/IMG_3365.jpg" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3366.jpg">
+<img src="img/IMG_3366.jpg" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3390.jpg" width="70%">
+<img src="img/IMG_3390.jpg" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3394.jpg">
+<img src="img/IMG_3394.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3395.jpg">
+<img src="img/IMG_3395.jpg"width="70%" >
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3400.jpg">
+<img src="img/IMG_3400.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3405.jpg">
+<img src="img/IMG_3405.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3406.jpg">
+<img src="img/IMG_3406.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Personnages
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3369.jpg">
+<img src="img/IMG_3369.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3370.jpg">
+<img src="img/IMG_3370.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3391.jpg">
+<img src="img/IMG_3391.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Ruse de Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3367.jpg">
+<img src="img/IMG_3367.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3376.jpg">
+<img src="img/IMG_3376.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Chance de Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3407.jpg">
+<img src="img/IMG_3407.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Al Capone
-<img src="tintin/IMG_3374.jpg">
+<img src="img/IMG_3374.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Bobby Smiles
-<img src="tintin/IMG_3384.jpg">
+<img src="img/IMG_3384.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3385.jpg">
+<img src="img/IMG_3385.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Gangsters
-<img src="tintin/IMG_3381.jpg">
+<img src="img/IMG_3381.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3383.jpg">
+<img src="img/IMG_3383.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Police américaine
-<img src="tintin/IMG_3377.jpg">
+<img src="img/IMG_3377.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Indiens d'Amérique
-<img src="tintin/IMG_3389.jpg">
+<img src="img/IMG_3389.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3392.jpg">
+<img src="img/IMG_3392.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Mike Mac Adam
-<img src="tintin/IMG_3396.jpg">
+<img src="img/IMG_3396.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3397.jpg">
+<img src="img/IMG_3397.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Humour
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Appel à l'imaginaire du lecteur
-<img src="tintin/IMG_3368.jpg">
+<img src="img/IMG_3368.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3410.jpg">
+<img src="img/IMG_3410.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3412.jpg">
+<img src="img/IMG_3412.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Répétitions
-<img src="tintin/IMG_3402.jpg">
+<img src="img/IMG_3402.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3403.jpg">
+<img src="img/IMG_3403.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3414.jpg">
+<img src="img/IMG_3414.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Techniques narratives
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Enchaînement en séquence
-<img src="tintin/IMG_3371.jpg">
+<img src="img/IMG_3371.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Anticipations
-<img src="tintin/IMG_3398.jpg">
+<img src="img/IMG_3398.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Suspense de bas de page
-<img src="tintin/IMG_3372.jpg">
+<img src="img/IMG_3372.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3373.jpg">
+<img src="img/IMG_3373.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3386.jpg">
+<img src="img/IMG_3386.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3387.jpg">
+<img src="img/IMG_3387.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3415.jpg">
+<img src="img/IMG_3415.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3416.jpg">
+<img src="img/IMG_3416.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Tension narrative
-<img src="tintin/IMG_3375.jpg">
+<img src="img/IMG_3375.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Récapitulations
-<img src="tintin/IMG_3378.jpg">
+<img src="img/IMG_3378.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Explications
-<img src="tintin/IMG_3379.jpg">
+<img src="img/IMG_3379.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3399.jpg">
+<img src="img/IMG_3399.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3408.jpg">
+<img src="img/IMG_3408.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3409.jpg">
+<img src="img/IMG_3409.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Case et récit
-<img src="tintin/IMG_3380.jpg">
+<img src="img/IMG_3380.jpg" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="tintin/IMG_3382.jpg">
+<img src="img/IMG_3382.jpg" width="70%">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Astérix et Obelix
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
