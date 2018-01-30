@@ -944,124 +944,124 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Construction du décor - Imaginaire de l'Amérique
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3365.jpg" width="100%">
+<img src="img/IMG_3365.JPG" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3366.jpg" width="100%">
+<img src="img/IMG_3366.JPG" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3390.jpg" width="100%">
+<img src="img/IMG_3390.JPG" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3394.jpg" width="70%">
+<img src="img/IMG_3394.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3395.jpg"width="70%" >
+<img src="img/IMG_3395.JPG"width="70%" >
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3400.jpg" width="70%">
+<img src="img/IMG_3400.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3405.jpg" width="70%">
+<img src="img/IMG_3405.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3406.jpg" width="70%">
+<img src="img/IMG_3406.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Personnages
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3369.jpg" width="70%">
+<img src="img/IMG_3369.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3370.jpg" width="70%">
+<img src="img/IMG_3370.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3391.jpg" width="70%">
+<img src="img/IMG_3391.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Ruse de Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3367.jpg" width="70%">
+<img src="img/IMG_3367.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3376.jpg" width="70%">
+<img src="img/IMG_3376.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Chance de Tintin
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3407.jpg" width="70%">
+<img src="img/IMG_3407.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Al Capone
-<img src="img/IMG_3374.jpg" width="70%">
+<img src="img/IMG_3374.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Bobby Smiles
-<img src="img/IMG_3384.jpg" width="70%">
+<img src="img/IMG_3384.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3385.jpg" width="70%">
+<img src="img/IMG_3385.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Gangsters
-<img src="img/IMG_3381.jpg" width="70%">
+<img src="img/IMG_3381.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3383.jpg" width="70%">
+<img src="img/IMG_3383.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Police américaine
-<img src="img/IMG_3377.jpg" width="70%">
+<img src="img/IMG_3377.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Indiens d'Amérique
-<img src="img/IMG_3389.jpg" width="70%">
+<img src="img/IMG_3389.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3392.jpg" width="70%">
+<img src="img/IMG_3392.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Mike Mac Adam
-<img src="img/IMG_3396.jpg" width="70%">
+<img src="img/IMG_3396.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3397.jpg" width="70%">
+<img src="img/IMG_3397.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Humour
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Appel à l'imaginaire du lecteur
-<img src="img/IMG_3368.jpg" width="70%">
+<img src="img/IMG_3368.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3410.jpg" width="70%">
+<img src="img/IMG_3410.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3412.jpg" width="70%">
+<img src="img/IMG_3412.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Répétitions
-<img src="img/IMG_3402.jpg" width="70%">
+<img src="img/IMG_3402.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3403.jpg" width="70%">
+<img src="img/IMG_3403.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3414.jpg" width="70%">
+<img src="img/IMG_3414.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Techniques narratives
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Enchaînement en séquence
-<img src="img/IMG_3371.jpg" width="70%">
+<img src="img/IMG_3371.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Anticipations
-<img src="img/IMG_3398.jpg" width="70%">
+<img src="img/IMG_3398.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Suspense de bas de page
-<img src="img/IMG_3372.jpg" width="70%">
+<img src="img/IMG_3372.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3373.jpg" width="70%">
+<img src="img/IMG_3373.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3386.jpg" width="70%">
+<img src="img/IMG_3386.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3387.jpg" width="70%">
+<img src="img/IMG_3387.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3415.jpg" width="70%">
+<img src="img/IMG_3415.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3416.jpg" width="70%">
+<img src="img/IMG_3416.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Tension narrative
-<img src="img/IMG_3375.jpg" width="70%">
+<img src="img/IMG_3375.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Récapitulations
-<img src="img/IMG_3378.jpg" width="70%">
+<img src="img/IMG_3378.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Explications
-<img src="img/IMG_3379.jpg" width="70%">
+<img src="img/IMG_3379.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3399.jpg" width="70%">
+<img src="img/IMG_3399.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3408.jpg" width="70%">
+<img src="img/IMG_3408.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3409.jpg" width="70%">
+<img src="img/IMG_3409.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ##### Case et récit
-<img src="img/IMG_3380.jpg" width="70%">
+<img src="img/IMG_3380.JPG" width="70%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3382.jpg" width="70%">
+<img src="img/IMG_3382.JPG" width="70%">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 # Astérix et Obelix
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
