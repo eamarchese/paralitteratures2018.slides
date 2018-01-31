@@ -1206,3 +1206,236 @@ table, th, td {
 #### Planche finale
 <img src="img/IMG_3475.JPG">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/rabagliati.jpg" -->
+<!-- .element: class="givemeabackground" -->
+#### Michel Rabagliati, 28 février 1961
+<font color="black">
+- Travaille dans l'illustration
+<br>- Publie dans des fanzines québécois
+<br>- 1998, création du personnage _Paul_, short stories dans _Spoutnik_
+<br>- 1999 publication chez _La pastèque_
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Paul.jpg" -->
+<!-- .element: class="givemeabackground" -->
+### Paul
+<font color="black">
+- Alter égo de l'auteur
+<br>- Bande dessinée d'auto-fiction
+<br>- Identité montréalaise et québécoise
+<br>- Inspiration de la ligne claire
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/zazie.jpg" -->
+<!-- .element: class="givemeabackground" -->
+### Paul dans le métro
+<font color="black">
+- 2005, _La Pastèque_
+<br>- Recueil d'histoires courtes, cas unique dans la série
+<br>- Histoire principale qui donne le nom au volume
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Contexte
+<img src="img/IMG_3476.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3477.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3490.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3491.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Personnages
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3479.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3488.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3484.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3485.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Clichés
+<img src="img/IMG_3481.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3480.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Technique
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3478.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3482.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3489.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3492.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3494.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Répétitions
+<img src="img/IMG_3495.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3496.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Ellipses
+<img src="img/IMG_3497.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Case et scénario
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3483.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3486.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Présentation et cliché
+<img src="img/IMG_3498.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3499.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Technique
+<img src="img/IMG_3500.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Intertextualité
+<img src="img/IMG_3501.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Technique
+<img src="img/IMG_3502.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Ironie finale - Morale
+<img src="img/IMG_3503.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Personnages
+<img src="img/IMG_3504.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3505.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Cliché
+<img src="img/IMG_3506.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3507.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3508.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Men in black
+
+Récit humoristique sur sa maison d'édition
+
+Absence de dialogue, mais le texte ?
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Bloopers
+
+Jeu sur les codes du cinéma et sur le montage
+
+Rapports entre Cinéma et BD : cadrage, montage vs découpage
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Métadiscours
+<img src="img/IMG_3513.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Ironie de l'intratextualité
+<img src="img/IMG_3514.JPG">
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/alexLevesque.jpg" -->
+<!-- .element: class="givemeabackground" -->
+### Alexandre Lévesque
+<font color="black">
+- Monteur et Caméraman chez Radio-Canada
+<br>- Travaille dans une station de ski à Baie-Comeau
+<br>- Fan du webcomic
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/db.jpg" -->
+<!-- .element: class="givemeabackground" -->
+<font color="black">
+- Expérience de BD sur son profil et sur Tumblr
+<br>- Contrainte d'écriture : un dessin chaque jour
+<br>- Humour noir, jeux de mots, humour satirique
+<br>- Caricature
+<br>- Strip ou case
+</font>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Cyanide and Happiness
+<img src="img/cyanide.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Joan Cornellà
+<img src="img/cornella.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+##### Métadiscours sur les techniques de la BD
+<img src="img/bd1.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd2.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd9.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd14.jpg">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd17.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd18.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd19.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd23.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd26.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Métadiscours sur sa propre technique
+<img src="img/bd3.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd4.png">
+Peut-être le seule personnage
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd5.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd10.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Jeux de mots
+<img src="img/bd12.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd13.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd15.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd29.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd32.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd35.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd38.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Jeux de mots anglais/français
+<img src="img/bd11.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd25.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd30.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Imaginaire du lecteur
+<img src="img/bd16.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd20.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd31.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd36.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd33.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Humour contextuel
+<img src="img/bd37.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd34.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+#### Case et récit
+<img src="img/bd21.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd22.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd24.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd27.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd28.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Blooper
+<img src="img/bd6.png">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/bd7.png">
