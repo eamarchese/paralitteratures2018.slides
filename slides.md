@@ -1447,7 +1447,7 @@ Peut-être le seule personnage
 <br>- Illustrations et expositions
 <br>- Artiste
 <br>- Industrie de l'animation
-<br>- Environments transmédia
+<br>- Environnements transmédia
 </font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 ### Phallaina
