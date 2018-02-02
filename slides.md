@@ -727,7 +727,7 @@ Paratexte = Péritexte + épitexte
 - Ligne de démarcation par rapport à la littérature générale
 - Réseau intermédia : cinéma, film, théâtre, télévision
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src='tintin.jpg'>
+<img src='img/tintin.jpg'>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couverture.jpg" -->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -919,26 +919,26 @@ table, th, td {
 <!-- .element: class="givemeabackground" -->
 # Hergé
 <font color="black">
-- 22 mai 1907 - 3 mars 1983
-- Dessinateur amateur dans une revue scoute
-- Dessinateur au quotidien _Le Vingtième Siècle_
-- _Aventures de Tintin_, 10 janvier 1929, _Le Petit Vingtième_
-- Ligne claire
-- Du noirs et blanc à la couleur, 1941
-- Studio Hergé
-<font>
+<br>- 22 mai 1907 - 3 mars 1983
+<br>- Dessinateur amateur dans une revue scoute
+<br>- Dessinateur au quotidien _Le Vingtième Siècle_
+<br>- _Aventures de Tintin_, 10 janvier 1929, _Le Petit Vingtième_
+<br>- Ligne claire
+<br>- Du noirs et blanc à la couleur, 1941
+<br>- Studio Hergé
+</font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tintinA.jpg" -->
 <!-- .element: class="givemeabackground" -->
 # Tintin en Amérique
 <font color="black">
 
-- En noir et blanc du 3 septembre 1931 au 20 octobre 1932 dans les pages du _Petit Vingtième_
-- L'album est publié pour la première fois en 1932
-- La version couleur et actuelle de l'album est parue en 1946
-- Querelle raciste, 2015
+<br>- En noir et blanc du 3 septembre 1931 au 20 octobre 1932 dans les pages du _Petit Vingtième_
+<br>- L'album est publié pour la première fois en 1932
+<br>- La version couleur et actuelle de l'album est parue en 1946
+<br>- Querelle raciste, 2015
 
-<font>
+</font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3364.JPG" width="100%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -1106,7 +1106,7 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Paratexte introductif
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3419.JPG">
+<img src="img/IMG_3419.JPG" width="80%">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3420.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -1127,7 +1127,7 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3431.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-# Obelix
+# Obélix
 <img src="img/IMG_3433.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3437.JPG">
@@ -1139,7 +1139,7 @@ table, th, td {
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3445.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-# Eléonoradus
+# Éléonoradus
 <img src="img/IMG_3458.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 # Humour
@@ -1176,9 +1176,9 @@ table, th, td {
 ### Appel aux connaissances du lecteur
 <img src="img/IMG_3430.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<img src="img/IMG_3455.JPG">
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3456.JPG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<img src="img/IMG_3455.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img src="img/IMG_3473.JPG">
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -1447,12 +1447,13 @@ Peut-être le seule personnage
 <br>- Illustrations et expositions
 <br>- Artiste
 <br>- Industrie de l'animation
-<br>- Environnements transmédia
+<br>- Environments transmédia
 </font>
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-### Phallaina
-<!-- .slide: data-background-image="img/phallaina.png" -->
+<!-- .slide: data-background-image="img/phallaina.jpg" -->
 <!-- .element: class="givemeabackground" -->
+### Phallaina
+
 <font color="black">
 <br>- Science, fiction et mythologie
 <br>- « Bande défilée »
@@ -1572,3 +1573,4 @@ Peut-être le seule personnage
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Générique
 <img src="img/IMG_0175.PNG">
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
