@@ -1573,4 +1573,84 @@ Peut-être le seule personnage
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 #### Générique
 <img src="img/IMG_0175.PNG">
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# 9 février 2018 - Roman policier
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+Le genre policier : une question de structure ?
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Spécificité du policier
+
+- Herméneutique
+- Schéma narratif
+- Métaphysique du policier
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Schéma narratif
+
+- Présentation du contexte : lieux, personnages, etc
+- Crime qui brise l'ordre et déclenche l'enquête
+- Dénouement, explication et retour à la normalité
+- Crimes vs enquête
+- Règles pour le policier : http://www.romanpolicier.net/les-20-regles-de-van-dine/
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Métaphysique du policier
+
+- Histoire de conjecture à l’état pur
+- Tous les faits ont une logique, la logique que leur a imposée le coupable
+
+« Le dédale de ma bibliothèque est encore un labyrinthe maniériste, mais le monde où Guillaume s’aperçoit qu’il vit est déjà structuré en rhizome : il est structurable mais jamais définitivement structuré »
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Georges Simenon, 12 février 1903 - 4 septembre 1989
+
+- Production immense
+- Plusieurs pseudonymes
+- Production littéraire « dure » et production paralittéraire
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Maigret
+
+- Première apparition dans un feuilleton, _La maison de l'inquiétude_, 1930, pseudonyme Georges Sim
+- 75 policiers et 28 nouvelles
+- Figure inspirée du Commissaire Marcel Guillaume
+- _Les mémoires de Maigret_, roman non policier
+- Sensibilité, humanité, bon sens et compassion
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Fred Vargas - 7 juin 1957
+
+- Nom de plume de Frédérique Audoin-Rouzeau
+- Archéozoologue et médiéviste
+- Policiers, romans « canoniques », nouvelles, essais
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Jean-Baptiste Adamberg
+
+- Indifférent, sensible, pas d'analyse et de déduction - absence de méthode d'investigation ?
+- Plusieurs détails sur sa vie privée et sur son passé dans les romans
+- 9 policiers, 1 bande déssinée, nouvelles
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Umberto Eco, 5 janvier 1932 - 19 février 2016
+
+- Érudit : philosophie, esthétique, histoire du Moyen Âge, sémiotique, ...
+- Une quarantaine de doctorats _honoris causa_
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Le nom de la rose
+
+- 1980 en italien, 1982 en français
+- Policier médiéval (?)
+- 1999, _Fnac_ et _Le Monde_ : Les cent livres du siècle
+
+https://www.youtube.com/watch?v=d71jVWrY4eI&t=256s
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+# Virginie Despentes, 13 juin 1969
+
+- Thématiques underground
+- Influences musicales, notamment punk et post-punk
+- Pentes de la Croix-Rousse à Lyon
+- Premier roman, _Baise-moi_, succès et scandale
+- Paul B. Preciado et le féminisme, _King kong théorie_
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+# Les chiennes savantes, 1996
+
+- Parallèlisme avec Molière, _Les femmes savantes_
+- Milieux « glauques »
+- Quatrième de couverture : « Despentes signe ici son unique polar de facture classique »
